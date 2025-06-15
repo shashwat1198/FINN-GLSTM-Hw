@@ -13,9 +13,9 @@ The generated hardware can be exported as a **synthesizable IP block**, which in
 
 ## Key Features
 
-- ✅ Streamlined and synthesizable LSTM design  
-- 🔌 AXI-Stream interface for easy integration  
-- 🔁 Compatible with FINN-generated QONNX models  
-- 🧩 Modular IP for combining with other layers  
+- Streamlined and synthesizable LSTM design  
+- AXI-Stream interface for easy integration  
+- Compatible with FINN-generated QONNX models  
+- Modular IP for combining with other layers  
 
 ---
