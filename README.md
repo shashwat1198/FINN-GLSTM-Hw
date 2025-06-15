@@ -5,7 +5,7 @@ This repository contains the hardware implementation of a **streamlined LSTM lay
 ## Overview
 
 - The top-level computation is defined in **`qlstm_top.cpp`**, which represents the operations derived from the streamlined LSTM QONNX graph.
-- Layer-specific parameters (size of inputs, outputs, lookbacks and datatypes) are provided in **`pipelined_lstm_header.h`**.
+- Layer-specific parameters (size of inputs, outputs, lookbacks and datatypes) are provided in **`pipeline-lstm-header.h`**.
 
 ## Usage
 
